@@ -1,0 +1,26 @@
+state  price_to2020_pct  price_to2020_p  mean_raw_gap_2021_24_pct  re_share_pp  re_share_p  gas_share_pp  gas_share_p
+   OH             -2.61            0.32                     -0.44        -1.31        0.76         13.25         0.04
+   KS              2.78            0.40                      1.45         8.28        0.16         -5.14         0.32
+   WV              7.67            0.08                     22.86        -1.77        0.60         -2.03         0.72
+   MT               NaN             NaN                     -2.31         1.47        0.44         -0.43         0.88
+                              quantity  estimate  se_cluster
+                                 lag 0     0.091       0.033
+                                 lag 1     0.128       0.026
+                                 lag 2     0.103       0.018
+                            cumulative     0.323       0.054
+cumulative, excl. 19 coal-heavy states     0.218       0.077
+        Ohio gap change 2022: observed     2.137         NaN
+  Ohio gap change 2022: fuel-predicted     1.991         NaN
+        Ohio gap change 2023: observed     6.504         NaN
+  Ohio gap change 2023: fuel-predicted     1.092         NaN
+        Ohio gap change 2024: observed     1.549         NaN
+  Ohio gap change 2024: fuel-predicted    -2.337         NaN
+                income state  effect_pct    p
+              baseline    OH       -5.10 0.52
+              baseline    KS       -3.30 0.72
+              baseline    WV       18.20 0.04
+              baseline    MT       -3.16 0.52
+income 3-yr centred MA    OH       -1.67 0.64
+income 3-yr centred MA    KS       -3.65 0.44
+income 3-yr centred MA    WV       21.16 0.04
+income 3-yr centred MA    MT       -3.52 0.60

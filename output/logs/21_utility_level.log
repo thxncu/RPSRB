@@ -1,0 +1,17 @@
+post-period obligated share: {'OH': np.float64(0.848), 'KS': np.float64(0.692), 'WV': np.float64(0.992), 'MT': np.float64(0.521)}
+state    window  effect_pct  ci95_lo_pct  ci95_hi_pct
+   OH 2014-2018       -1.23       -11.76        10.55
+   OH 2014-2020       -2.95       -13.21         8.53
+   OH 2014-2021       -3.61       -14.41         8.56
+   OH 2014-2024       -3.19       -15.60        11.04
+   KS 2015-2024       -0.29       -13.33        14.72
+   WV 2015-2024       15.11         0.05        32.43
+   MT 2021-2024       -3.13       -15.33        10.83
+                donors state  effect_pct  placebo_se  p_placebo
+         all available    OH      -5.692       0.108      0.417
+         all available    KS      -1.862       0.090      0.833
+         all available    MT       3.689       0.059      0.458
+obligated share 10-90%    OH      -9.201       0.057      0.095
+obligated share 10-90%    KS      -0.080       0.049      1.000
+obligated share 10-90%    MT       4.368       0.045      0.333
+common donors: 20 ['AL', 'AR', 'FL', 'GA', 'ID', 'KY', 'LA', 'MS', 'WY', 'IN', 'ND', 'SD', 'OK', 'UT', 'SC', 'TX', 'IA', 'WI', 'MO', 'AZ']

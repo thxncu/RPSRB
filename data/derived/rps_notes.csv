@@ -1,0 +1,34 @@
+state,series,note
+AZ,Total RPS,RPS applies only to IOUs and coops
+CA,Total RPS,"Through 2015, the values shown here represent targets for the state's three large IOUs through 2015 (targets for other utilities' were lower).  From 2016 onward, the values shown here represent statewide targets applicable to all utilities."
+CO,Total RPS (Wtd. Avg.),"CES is based on emission reduction target (80% by 2030 for most utilities, 100% by 2050 for Xcel), translated here into an equivalent minimum percent of retail sales from zero-carbon generation sources.  "
+CT,Total RPS,
+DC,Total RPS,
+DE,Total RPS,
+HI,Total RPS,"Starting in 2022, the target represents the percentage of total generation, rather than percentage of retail sales"
+IA,Total RPS,"Legacy RPS that applied only to the two IOUs, denominated in MW terms; translated to equivalent percentage of applicable sales"
+IL,Total RPS,RPS applies only to IOUs and competitive retail suppliers
+KS,Total RPS,The RPS was repealed in 2015
+MA,Total RPS,"RPS and CES do not apply to municipal utilities. Class I Solar carve-out consists of the SREC I, SREC II, and SMART programs; the targets for those programs are denominated in MW and translated here to the equivalent percentage of retail electricity sales. CES-E targets from 2023 onward are subject to annual adjustments based on retail electricity sales growth."
+MD,Total RPS (Wtd. Avg.),Targets across LSE types; weighted averages are based on retail elecricity sales by each type of LSE.  Offshore wind carve-outs apply only if sufficient generation is available.
+ME,Total RPS,RPS applies only to IOUs and competitive retail suppliers
+MI,Total RPS,
+MN,Total RPS (Wtd. Avg.),"Targets differ between Xcel and other utilities, and the weighted average is based on the retail electricity sales of utilities subject to the RPS. Wind and solar carve-outs apply to only a subset of RPS-obligated utilities, as indicated."
+MO,Total RPS,RPS applies only to IOUs
+MT,Total RPS,The RPS was repealed in 2021
+NC,Total RPS (Wtd. Avg.),CES is denominated as an emission reduction target; translated here into an equivalent percent of retail sales based on resource mix in baseline year.
+NE,Total CES (Wtd. Avg.),"CES applies to Lincoln Electric System, Nebraska Public Power District, and Omaha Public Power District"
+NH,Total RPS,RPS does not apply to municipal utilities
+NJ,Total RPS,"RPS applies only to IOUs and competetitive retail suppliers. Class I Non-Solar includes the TREC and SuSI programs, but excludes the previous SREC registration program."
+NM,Total RPS (Wtd. Avg.),"RPS does not apply to municipal utilities. Targets differ between IOUs and Coops, and the weighted average is based on the retail electricity sales of utilities subject to the RPS."
+NV,Total RPS,RPS applies only to IOUs and competitive retail suppliers
+NY,Total RPS,RPS targets through 2017 are based on legacy RPS.  Targets from 2018-2021 are based on final NYSERDA Phase 2 Implementation Plan. Targets from 2022-2029 are interpolated assuming a linear ramp up to the final 70% percentage requirement in 2030.
+OH,Total RPS,RPS applies only to IOUs and competitive retail suppliers
+OR,Total RPS (Wtd. Avg.),CES is denominated as an emission reduction target; translated here into an equivalent percent of retail sales based on resource mix in baseline year.
+PA,Total RPS,RPS applies only to IOUs and competitive retail suppliers
+RI,Total RPS,RPS applies only to IOUs and competitive retail suppliers
+TX,Total RPS,RPS applies only to IOUs and competitive retail suppliers and denominated in MW terms; translated to equivalent percentage of applicable sales based on average capacity factor of operating wind power projects in Texas.
+VA,Total RPS (% of obligated LSE retail sales),"RPS applies to the portion of the utilities' load not served by nuclear; translated here to the equivalent percentage of total retail sales based on existing nuclear generation in the utilities' fleets. The Total RPS and Total CES shown here is a weighted average of the two utilities, denominated as a percentage of those utilities' total retail sales."
+VT,Total RPS (Wtd. Avg.),
+WA,Total RPS,
+WI,Total RPS,
